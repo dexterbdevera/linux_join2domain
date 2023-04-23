@@ -1,4 +1,4 @@
-# Linux shell script to join into Domain
+# Shell script to join Linux machine into domain
 
 This shell script is tested  with Linux flavors like Centos 7 or Almalinux 8 that are binary-compatible with Red Hat Enterprise Linux (RHEL).
 
