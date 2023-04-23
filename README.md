@@ -1,6 +1,6 @@
 # Linux shell script to join into Domain
 
-This shell script is tested to Linux flavors like Centos 7 or Almalinux 8 that are binary-compatible with Red Hat Enterprise Linux (RHEL).
+This shell script is tested  with Linux flavors like Centos 7 or Almalinux 8 that are binary-compatible with Red Hat Enterprise Linux (RHEL).
 
 The following will be executed in sequence:
 
